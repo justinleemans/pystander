@@ -2,7 +2,6 @@ import argparse
 import os
 import shutil
 import time
-from handlers import MoveHandler
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
